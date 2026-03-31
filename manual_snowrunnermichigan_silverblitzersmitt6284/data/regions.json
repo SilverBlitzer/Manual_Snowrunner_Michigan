@@ -1,0 +1,44 @@
+{
+  "Black River": {
+    "starting": false,
+    "connects_to": [
+      "Smithville Dam",
+      "Michigan"
+    ],
+    "requires": "(|GMC MH9500, Highway| OR |International Fleetstar F2070A, Heavy Duty| OR |Chevrolet Kodiak C70, Heavy Duty| OR |International Transtar 4070A, Highway| OR |White Western Star 4964, Heavy Duty| OR |Pacific P12, Heavy| OR |Pacific P16, Heavy| OR |Western Star 6900 Twinsteer, Heavy| OR |ANK MK38 Civilian, Offroad|) AND |High Saddle|"
+  },
+  "Smithville Dam": {
+    "connects_to": [
+      "Island Lake",
+      "Drummond Island",
+      "Michigan"
+    ],
+    "requires": "|Gateway BR to SD|"
+  },
+  "Island Lake": {
+    "connects_to": [
+      "Drummond Island",
+      "Michigan"
+    ],
+    "requires": "(|Gateway SD to IL| OR |Gateway DI to IL|)"
+  },
+  "Drummond Island": {
+    "connects_to": [
+      "Island Lake",
+      "Michigan"
+    ],
+    "requires": "(|Gateway SD to DI| OR |Gateway IL to DI|)"
+  },
+  "Michigan": {
+    "starting": false,
+    "connects_to": [],
+    "requires": "|Gateway BR to SD| AND (|Gateway SD to DI| OR |Gateway IL to DI|) AND (|Gateway SD to IL| OR |Gateway DI to IL|)"
+  },
+  "Starting": {
+    "starting": true,
+    "connects_to": [
+      "Black River"
+    ],
+    "requires": ""
+  }
+}

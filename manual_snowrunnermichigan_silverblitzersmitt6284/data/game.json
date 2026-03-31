@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "SnowrunnerMichigan",
+  "creator": "SilverBlitzerSmitt6284",
+  "filler_item_name": "Cosmetics",
+  "starting_items": []
+}

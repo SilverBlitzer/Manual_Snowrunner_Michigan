@@ -1,0 +1,693 @@
+[
+  {
+    "count": 1,
+    "name": "Gateway BR to SD",
+    "category": [
+      "Black River",
+      "Gateway"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gateway SD to IL",
+    "category": [
+      "Smithville Dam",
+      "Gateway"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gateway SD to DI",
+    "category": [
+      "Smithville Dam",
+      "Gateway"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gateway IL to DI",
+    "category": [
+      "Island Lake",
+      "Gateway"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gateway DI to IL",
+    "category": [
+      "Drummond Island",
+      "Gateway"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "GMC MH9500, Highway",
+    "category": [
+      "Trucks",
+      "Highway"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "International Transtar 4070A, Highway",
+    "category": [
+      "Trucks",
+      "Highway"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "International Fleetstar F2070A, Heavy Duty",
+    "category": [
+      "Trucks",
+      "Heavy Duty"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chevrolet Kodiak C70, Heavy Duty",
+    "category": [
+      "Trucks",
+      "Heavy Duty"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "White Western Star 4964, Heavy Duty",
+    "category": [
+      "Trucks",
+      "Heavy Duty"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "International Loadstar 1700, Scout",
+    "category": [
+      "Scout"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Scout 800, Scout",
+    "category": [
+      "Scout"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pacific P12, Heavy",
+    "category": [
+      "Trucks",
+      "Heavy"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pacific P16, Heavy",
+    "category": [
+      "Trucks",
+      "Heavy"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Western Star 6900 Twinsteer, Heavy",
+    "category": [
+      "Trucks",
+      "Heavy"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "ANK MK38 Civilian, Offroad",
+    "category": [
+      "Trucks",
+      "Heavy"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Si-6V/2100T Black river",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "AAT-8V 5,2 Custom, Black river",
+    "category": [
+      "Upgrades"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "SnowRunner, Black river",
+    "category": [
+      "Upgrades"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Engageable AWD, Black river",
+    "category": [
+      "Upgrades"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "raised, BR, Chevy CK1500",
+    "category": [
+      "Upgrades"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "raised, BR, GMC MH9500",
+    "category": [
+      "Upgrades"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "raised, BR, F2070A",
+    "category": [
+      "Upgrades"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "AAT-6V 4,4",
+    "category": [
+      "Upgrades"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Engageable, SD, Chevy CK1500",
+    "category": [
+      "Upgrades"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Engageable, SD, GMC MH9500",
+    "category": [
+      "Upgrades"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Engageable AWD, SD, White western star",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Si-6V/2380",
+    "category": [
+      "Upgrades"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Freeway",
+    "category": [
+      "Upgrades"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Raised, SD, Scout 800",
+    "category": [
+      "Upgrades"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Raised, SD, White western star",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gb-6V 2400A",
+    "category": [
+      "Upgrades"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Engageable, IL, White western star",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Raised, IL, Chevy kodiak",
+    "category": [
+      "Upgrades"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Het/6V 5,0",
+    "category": [
+      "Upgrades"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Offroad",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "A12V-850TTA",
+    "category": [
+      "Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "ATHS I",
+    "category": [
+      "Tires",
+      "All-Terrain"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "ATMD I",
+    "category": [
+      "Tires",
+      "All-Terrain"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "ATMD II",
+    "category": [
+      "Tires",
+      "All-Terrain"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "ATMD III",
+    "category": [
+      "Tires",
+      "All-Terrain"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "P12 AT",
+    "category": [
+      "Tires",
+      "All-Terrain"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "SPO I",
+    "category": [
+      "Tires",
+      "All-Terrain"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "UAD I",
+    "category": [
+      "Tires",
+      "All-Terrain"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "UAD II",
+    "category": [
+      "Tires",
+      "All-Terrain"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "UAD III",
+    "category": [
+      "Tires",
+      "All-Terrain"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "MHS I Chains",
+    "category": [
+      "Tires",
+      "Chains"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "OHD II Chains",
+    "category": [
+      "Tires",
+      "Chains"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "UAD III Chains",
+    "category": [
+      "Tires",
+      "Chains"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "HMD I",
+    "category": [
+      "Tires",
+      "Highway"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "HMD II",
+    "category": [
+      "Tires",
+      "Highway"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "HMD III",
+    "category": [
+      "Tires",
+      "Highway"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "UHD I",
+    "category": [
+      "Tires",
+      "Highway"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "UHD II",
+    "category": [
+      "Tires",
+      "Highway"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "UHD III",
+    "category": [
+      "Tires",
+      "Highway"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "MHS I",
+    "category": [
+      "Tires",
+      "Mudtires"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "MHS II",
+    "category": [
+      "Tires",
+      "Mudtires"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "MHS III",
+    "category": [
+      "Tires",
+      "Mudtires"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "MSH I",
+    "category": [
+      "Tires",
+      "Mudtires"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "MSH II",
+    "category": [
+      "Tires",
+      "Mudtires"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "MSH III",
+    "category": [
+      "Tires",
+      "Mudtires"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "MSH IV",
+    "category": [
+      "Tires",
+      "Mudtires"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "TMHS I",
+    "category": [
+      "Tires",
+      "Mudtires"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "ZHM",
+    "category": [
+      "Tires",
+      "Mudtires"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "ANKO I",
+    "category": [
+      "Tires",
+      "Offroad"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "OHD I",
+    "category": [
+      "Tires",
+      "Offroad"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "OHD I (P16)",
+    "category": [
+      "Tires",
+      "Offroad"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "OHD II",
+    "category": [
+      "Tires",
+      "Offroad"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "OHD III",
+    "category": [
+      "Tires",
+      "Offroad"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "OHS I",
+    "category": [
+      "Tires",
+      "Offroad"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "OHS II",
+    "category": [
+      "Tires",
+      "Offroad"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "UOD I",
+    "category": [
+      "Tires",
+      "Offroad"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "UOD II",
+    "category": [
+      "Tires",
+      "Offroad"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "UOD III",
+    "category": [
+      "Tires",
+      "Offroad"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "Progressive Cosmetic/Utility",
+    "category": [
+      "Cosmetic/Utility"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Progressive Loading Crane",
+    "category": [
+      "Cosmetic/Utility"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Sideboard Bed Access (All Vehicles)",
+    "category": [
+      "Cosmetic/Utility"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "High Saddle",
+    "category": [
+      "Cosmetic/Utility"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Low Saddle",
+    "category": [
+      "Cosmetic/Utility"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Fuel Tank Addon",
+    "category": [
+      "Cosmetic/Utility"
+    ],
+    "filler": true
+  }
+]

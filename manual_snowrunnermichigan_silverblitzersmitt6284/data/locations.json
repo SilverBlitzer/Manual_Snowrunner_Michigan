@@ -1,0 +1,1596 @@
+[
+  {
+    "name": "Gateway BR to SD",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Gateway"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Gateway SD to IL",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Gateway"
+    ],
+    "requires": "|Gateway BR to SD|"
+  },
+  {
+    "name": "Gateway SD to DI",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Gateway"
+    ],
+    "requires": "|Gateway BR to SD|"
+  },
+  {
+    "region": "Island Lake",
+    "name": "Gateway IL to DI",
+    "category": [
+      "Island Lake",
+      "Gateway"
+    ],
+    "requires": "(|Gateway SD to IL| OR |Gateway DI to IL|)"
+  },
+  {
+    "region": "Drummond Island",
+    "name": "Gateway DI to IL",
+    "category": [
+      "Drummond Island",
+      "Gateway"
+    ],
+    "requires": "(|Gateway SD to DI| OR |Gateway IL to DI|)"
+  },
+  {
+    "name": "12. Super Order",
+    "victory": true,
+    "region": "Michigan",
+    "category": [
+      "Michigan",
+      "Contracts"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Starting",
+    "name": "Watchtower Black River Town",
+    "category": [
+      "Black River",
+      "Watch Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Watchtower Spawn Area",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Watch Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Watchtower Farm",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Watch Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Watchtower Garage",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Watch Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Watchtower Mountain Bridge",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Watch Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Watchtower Log Station",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Watch Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Watchtower Factory",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Watch Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Watchtower Smithville Gateway",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Watch Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "1. The Watchtower",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Contracts"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "First Truck",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Contracts"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "2. old bridge reconstruction",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Contracts"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "3. get to the garage",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Contracts"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "lost container",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Contracts"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "steel river supplies",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Contracts"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "timber for the locals",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Contracts"
+    ],
+    "requires": "|A12V-850TTA| AND |Pacific P12, Heavy|"
+  },
+  {
+    "name": "farming tools",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Contracts"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "wet harvest",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Contracts"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "4. pipe dream",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Contracts"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "5. not a drill (needs SD)",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Contracts"
+    ],
+    "requires": "|Gateway BR to SD|"
+  },
+  {
+    "name": "the place beyond the spruces",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "rockslide",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "fallen powerline",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "mountain bridge",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "road block",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "missing oil tank",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "wooden bridge",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "motel woes",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "riverside repair",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "missing machinery",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "drainage",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "king of the hill",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "stuck trailer",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "drowned scout truck",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "drowned highway truck",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "drowned offroad truck",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "local entertainment",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "GMC MH9500",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Scout 800",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Chevrolet Kodiak C70",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "service trailer",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "sideboard trailer factory",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "sideboard trailer lumber mill",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "fuel carrier trailer Near farm",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "scout flatbed",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "ramped flatbed trailer",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "sideboard trailer town warehouse",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "flatbed semi trailer",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "flatbed trailer",
+    "region": "Black River",
+    "category": [
+      "Black River",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "International Fleetstar F2070A",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Si-6v/2100T",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Upgrades"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "AAT-8V 5,2 Custom",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Upgrades"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Snowrunner",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Upgrades"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Engageable AWD",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Upgrades"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Raised near black river",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Upgrades"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Raised near garage",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Upgrades"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Raised near drill",
+    "region": "Starting",
+    "category": [
+      "Black River",
+      "Upgrades"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Smithville Dam",
+    "name": "watchtower near garage",
+    "category": [
+      "Smithville Dam",
+      "Watch Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "watchtower near farm",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Watch Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "watchtower drilling site",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Watch Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "watchtower the long way",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Watch Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "watchtower antenna tower",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Watch Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "watchtower drummond gate",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Watch Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "logs to the workers",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Contracts"
+    ],
+    "requires": "|A12V-850TTA| AND |Pacific P12, Heavy|"
+  },
+  {
+    "name": "6. winter stores",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Contracts"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "the essentials",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Contracts"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "materials order",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Contracts"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "work for old sweat",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Contracts"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "fuel order",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Contracts"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "cargo from the ship (needs DI)",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Contracts"
+    ],
+    "requires": "(|Gateway SD to DI| OR |Gateway IL to DI| AND |Gateway SD to IL|)"
+  },
+  {
+    "name": "11. out with the old (needs DI)",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Contracts"
+    ],
+    "requires": "(|Gateway SD to DI| OR |Gateway IL to DI| AND |Gateway SD to IL|)"
+  },
+  {
+    "name": "well well well",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "unlucky fisherman",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "solid foundation",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "the long way",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "find the antenna tower",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "repair the truck",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "tools delivery",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "smithville bridge",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "more fuel",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "lost trailer",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "threatening accident",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "unfortunate event",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "across the river",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "fixer upper",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "lost bags",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "rock on",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "michigan trial",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "hungry workers",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Chevrolet CK1500",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "International Transtar 4070A",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sideboard Tralier michigan trial",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "service trailer lost bags",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "ramped flatbed trailer quarry",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "sideboard semi trailer log station",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "flatbed trailer unlucky fisherman",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "ramped flatbed trailer logistics",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "flatbed trailer logisticsish",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "sideboard trailer Highway",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "AAT-6v 4,4",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Upgrades"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "engageable the long way",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Upgrades"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "engageable nearish white western",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Upgrades"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "engageable AWD",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Upgrades"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Si-6V/2380",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Upgrades"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Freeway",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Upgrades"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "raised International transtar",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Upgrades"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "raised tools delivery",
+    "region": "Smithville Dam",
+    "category": [
+      "Smithville Dam",
+      "Upgrades"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "watchtower warehouse",
+    "region": "Island Lake",
+    "category": [
+      "Island Lake",
+      "Watch Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "watchtower bridge the gap",
+    "category": [
+      "Island Lake",
+      "Watch Towers"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "watchtower twinsteer",
+    "category": [
+      "Island Lake",
+      "Watch Towers"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "watchtower log station",
+    "category": [
+      "Island Lake",
+      "Watch Towers"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "watchtower corporate expansion",
+    "category": [
+      "Island Lake",
+      "Watch Towers"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "watchtower signal in the mountain",
+    "category": [
+      "Island Lake",
+      "Watch Towers"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "watchtower broken antenna",
+    "category": [
+      "Island Lake",
+      "Watch Towers"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "watchtower a little help for old",
+    "category": [
+      "Island Lake",
+      "Watch Towers"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "timber at arms reach (needs SD)",
+    "category": [
+      "Island Lake",
+      "Contracts"
+    ],
+    "requires": "|A12V-850TTA| AND |Pacific P12, Heavy|",
+    "region": "Island Lake"
+  },
+  {
+    "name": "8. lumber mill revival (needs SD)",
+    "category": [
+      "Island Lake",
+      "Contracts"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "7. power lines",
+    "category": [
+      "Island Lake",
+      "Contracts"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "9. instruments of development",
+    "category": [
+      "Island Lake",
+      "Contracts"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "signal in the mountains",
+    "category": [
+      "Island Lake",
+      "Tasks"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "broken antenna",
+    "category": [
+      "Island Lake",
+      "Tasks"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "a little help for my friends",
+    "category": [
+      "Island Lake",
+      "Tasks"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "no country for old truck",
+    "category": [
+      "Island Lake",
+      "Tasks"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "rusty legacy",
+    "category": [
+      "Island Lake",
+      "Tasks"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "corporate expansion",
+    "category": [
+      "Island Lake",
+      "Tasks"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "bridge the gap",
+    "category": [
+      "Island Lake",
+      "Tasks"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "tough negotiations",
+    "category": [
+      "Island Lake",
+      "Tasks"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "hunter bob's bridge",
+    "category": [
+      "Island Lake",
+      "Tasks"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "the huntsman and the car",
+    "category": [
+      "Island Lake",
+      "Tasks"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "scout fuel trailer broken antenna",
+    "category": [
+      "Island Lake",
+      "Vehicles/Trailers"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "scout fuel trailer warehouse",
+    "category": [
+      "Island Lake",
+      "Vehicles/Trailers"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "scout fuel trailer hidden log station",
+    "category": [
+      "Island Lake",
+      "Vehicles/Trailers"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "sideboard semi trailer warehouse",
+    "category": [
+      "Island Lake",
+      "Vehicles/Trailers"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "sideboard semi trailer the huntsman and the car",
+    "category": [
+      "Island Lake",
+      "Vehicles/Trailers"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "fuel carrier trailer middle right",
+    "category": [
+      "Island Lake",
+      "Vehicles/Trailers"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "fuel carrier semi trailer tough negotiations",
+    "category": [
+      "Island Lake",
+      "Vehicles/Trailers"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "name": "fuel carrier trailer a little help for my friends",
+    "category": [
+      "Island Lake",
+      "Vehicles/Trailers"
+    ],
+    "requires": "",
+    "region": "Island Lake"
+  },
+  {
+    "region": "Island Lake",
+    "name": "fuel carrier trailer sawmill",
+    "category": [
+      "Island Lake",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "sideboard semi trailer signal in the mountains",
+    "region": "Island Lake",
+    "category": [
+      "Island Lake",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "service trailer hidden top",
+    "region": "Island Lake",
+    "category": [
+      "Island Lake",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Gb-6V 2400A",
+    "region": "Island Lake",
+    "category": [
+      "Island Lake",
+      "Upgrades"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Engageable White western",
+    "region": "Island Lake",
+    "category": [
+      "Island Lake",
+      "Upgrades"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Raised top left",
+    "region": "Island Lake",
+    "category": [
+      "Island Lake",
+      "Upgrades"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Het/6V 5,0",
+    "region": "Island Lake",
+    "category": [
+      "Island Lake",
+      "Upgrades"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "watchtower island lake",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Watch Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "watchtower smithville dam",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Watch Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "watchtower mud wrestler",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Watch Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "watchtower p16",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Watch Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "aid at the island",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Contracts"
+    ],
+    "requires": "|A12V-850TTA| AND |Pacific P12, Heavy|"
+  },
+  {
+    "name": "11. harbor delivery (needs IL)",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Contracts"
+    ],
+    "requires": "(|Gateway SD to IL| OR |Gateway IL to DI| AND |Gateway DI to IL|)"
+  },
+  {
+    "name": "support local rangers",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "of bridges and men",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "tourist attraction",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "forged by the sea",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "ten-hut",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "the silent observer",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "cousin cletus",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "mud wrestling",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "lost delivery",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Tasks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Pacific P16",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "sideboard trailer log station",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "sideboard trailer local rangers",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "sideboard trailer ten hut",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "sideboard trailer of bridges and men",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "sideboard trailer cousin cletus",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "scout flatbed near p16",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "fuel carrier semi trailer fuel station",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "ramped flatbed trailer mud wrestling",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Drummond Island",
+    "name": "service trailer middle of map",
+    "category": [
+      "Drummond Island",
+      "Vehicles/Trailers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "offroad beach near rangers",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Upgrades"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "A12V-850TTA",
+    "region": "Drummond Island",
+    "category": [
+      "Drummond Island",
+      "Upgrades"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "cement for the region",
+    "region": "Michigan",
+    "category": [
+      "Michigan",
+      "Contracts"
+    ],
+    "requires": ""
+  }
+]
